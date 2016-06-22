@@ -3,7 +3,7 @@
 
 
 ###下载
-https://github.com/Heisenberg-Werner/vpn/blob/master/manual/OSX/ShadowsocksX-2.6.3.dmg
+https://sourceforge.net/projects/shadowsocksgui/
 
 
 
