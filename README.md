@@ -16,7 +16,7 @@
 
 ###如何使用
 1、[Mac OSX](https://github.com/Heisenberg-Werner/vpn/tree/master/manual/OSX "Mac OSX")  
-2、Windows  
-3、安卓系统  
-4、iOS系统
+2、[Windows](https://github.com/Heisenberg-Werner/vpn/tree/master/manual/Windows "Windows")  
+3、[安卓系统](https://github.com/Heisenberg-Werner/vpn/tree/master/manual/OSX "android")  
+4、[iOS系统](https://github.com/Heisenberg-Werner/vpn/tree/master/manual/iOS "iOS系统")  
 
